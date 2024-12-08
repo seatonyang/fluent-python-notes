@@ -50,3 +50,4 @@ def spades_high(card: Card) -> int:
 
 sorted_deck = sorted(deck._card, key=spades_high)
 print(sorted_deck)
+
